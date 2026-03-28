@@ -48,7 +48,7 @@ This assignment focuses on data cleaning, missing value imputation, and outlier 
 - RF method handles nonlinear relationships effectively
 
 ### Outlier Detection
-- Number of outliers identified: 6
+- Number of outliers identified: 7
 - LOF scores distribution visualized in histogram
 
 ## Files in this Folder
