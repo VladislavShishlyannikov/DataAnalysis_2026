@@ -39,7 +39,7 @@ For each continuous variable and each outcome group (0 and 1):
 - Extracted distribution parameters (mean/sd for normal, meanlog/sdlog for lognormal, rate for exponential)
 
 ### 3. Missing Data Handling (Extra Points)
-- **Problem:** `lipids5` contained 276 missing values (NAs)
+- **Problem:** `lipids5` contained 276 missing values
 - **Solution:** Imputed missing values using group median (by outcome group)
 - **Verification:** No remaining NAs after imputation
 
