@@ -3,9 +3,9 @@
 ## Assignment Description
 This assignment focuses on estimating probability distributions of continuous variables grouped by the binary outcome variable. The analysis includes:
 
-1. Identifying the best-fitting distribution (normal, lognormal, exponential) for each continuous variable within each outcome group (0 and 1) using the Bayesian Information Criterion (BIC).
+1. Identifying the best-fitting distribution (normal, lognormal, exponential) for each continuous variable within each outcome group (0 and 1) using the BIC.
 2. Creating a summary table with descriptive statistics and distribution parameters.
-3. Fixing missing data in the `lipids5` variable (extra points).
+3. Fixing missing data in the `lipids5` variable.
 4. Visualizing density distributions by outcome group.
 
 ## Student Information
