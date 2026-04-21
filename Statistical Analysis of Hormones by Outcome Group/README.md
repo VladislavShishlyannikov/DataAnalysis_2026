@@ -60,8 +60,8 @@ For each hormone, three tests were performed:
 
 ### 6. Visualization
 - **Histograms:** Distribution shape for each hormone by group
-- **Q-Q plots:** Normality assessment (points should follow diagonal line)
-- **Correlation heatmaps:** Spearman correlations between all hormones (separately for each outcome group)
+- **Q-Q plots:** Normality assessment
+- **Correlation heatmaps:** Spearman correlations between all hormones
 
 ## Results
 
