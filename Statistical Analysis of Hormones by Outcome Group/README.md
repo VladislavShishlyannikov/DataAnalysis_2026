@@ -115,7 +115,7 @@ For each hormone, three tests were performed:
 - **hormone8** (p = 0.00038, Brunner-Munzel)
 
 ### Recommended Test
-**For all hormones, the Brunner-Munzel test is recommended** because:
+For all hormones, the Brunner-Munzel test is recommended because:
 1. All hormones showed non-normal distribution (Shapiro-Wilk p < 0.05)
 2. The Brunner-Munzel test is robust to non-normality and does not assume equal variances
 3. It is more reliable than Wilcoxon when distribution shapes differ between groups
