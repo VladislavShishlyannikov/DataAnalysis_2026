@@ -30,7 +30,7 @@ This assignment focuses on comparing hormone levels between two outcome groups (
 ## Procedures Used
 
 ### 1. Descriptive Statistics
-- Generated summary table using `gtsummary::tbl_summary()`
+- Generated summary table
 - Stratified by outcome group (0 and 1)
 - Included all 9 hormone variables
 
