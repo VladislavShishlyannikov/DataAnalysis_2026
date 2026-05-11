@@ -58,16 +58,16 @@ This assignment focuses on statistical analysis of hormone and lipid data:
 
 | Variable 1 | Variable 2 | Spearman r | p-value |
 |------------|------------|------------|---------|
-| lipids1 | lipids5 | 0.999 | 0.000 |
-| lipids2 | lipids4 | 0.884 | 0.000 |
-| lipid_pero2 | lipid_pero3 | 0.770 | 0.000 |
-| hormone3 | hormone4 | 0.584 | 0.000 |
-| factor_h | factor_pcos | -0.523 | 0.000 |
-| lipid_pero1 | lipid_pero2 | 0.444 | 0.000 |
-| factor_h | hormone5 | 0.433 | 0.000 |
-| factor_prl | hormone2 | 0.433 | 0.000 |
-| lipid_pero1 | lipid_pero3 | 0.382 | 0.000 |
-| antioxidant4 | antioxidant5 | 0.334 | 0.000 |
+| lipids1 | lipids5 | 0.999 | < 0.001 |
+| lipids2 | lipids4 | 0.884 | < 0.001 |
+| lipid_pero2 | lipid_pero3 | 0.770 | < 0.001 |
+| hormone3 | hormone4 | 0.584 | < 0.001 |
+| factor_h | factor_pcos | -0.523 | < 0.001 |
+| lipid_pero1 | lipid_pero2 | 0.444 | < 0.001 |
+| factor_h | hormone5 | 0.433 | < 0.001 |
+| factor_prl | hormone2 | 0.433 | < 0.001 |
+| lipid_pero1 | lipid_pero3 | 0.382 | < 0.001 |
+| antioxidant4 | antioxidant5 | 0.334 | < 0.001 |
 
 ### Regression Analysis (lipids1 ~ lipids2)
 
