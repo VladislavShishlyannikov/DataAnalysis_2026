@@ -114,9 +114,6 @@ This assignment focuses on statistical analysis of hormone and lipid data:
 | True Positives | 0 |
 | False Negatives | 132 |
 
-
-**Note:** The model predicts all cases as class 0 (no true positives), indicating class imbalance in the data.
-
 ## Files in this Folder
 - `data_for_analysis.csv` - Original dataset
 - `correlation_permutation_results.csv` - Complete correlation matrix (406 pairs) with Spearman r and p-values
