@@ -15,7 +15,7 @@ This assignment focuses on statistical analysis of hormone and lipid data:
 ## Data Description
 - **Dataset:** `data_for_analysis.csv`
 - **Number of observations (after removing NA in outcome):** 1147
-- **Number of numeric variables analyzed:** 29 (excluding `record_id`)
+- **Number of numeric variables analyzed:** 29
 - **Outcome groups:** 0 (n = 987), 1 (n = 160)
 - **Complete cases for logistic regression:** 872
 
