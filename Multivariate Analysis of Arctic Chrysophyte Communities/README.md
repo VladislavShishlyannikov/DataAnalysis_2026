@@ -36,7 +36,7 @@ This assignment focuses on multivariate analysis of Arctic chrysophyte abundance
 ## Procedures Used
 
 ### 1. NMDS Ordination (Bray–Curtis)
-- **Distance measure:** Bray–Curtis (standard for ecological community data)
+- **Distance measure:** Bray–Curtis
 - **Method:** Non‑metric Multidimensional Scaling
 - **Random starts:** 100 tries
 - **Resulting stress:** 0 (near‑perfect representation)
