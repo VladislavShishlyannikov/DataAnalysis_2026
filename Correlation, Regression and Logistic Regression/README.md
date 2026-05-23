@@ -119,7 +119,7 @@ This assignment focuses on statistical analysis of hormone and lipid data:
 - `correlation_permutation_results.csv` - Complete correlation matrix (406 pairs) with Spearman r and p-values
 - `regression_model_comparison.csv` - BIC comparison of 5 regression models
 - `logistic_odds_ratios.csv` - Odds ratios with 95% confidence intervals for the best model
-- `analysis_code.R` - R script for correlation, regression and logistic regression analysis
+- `Practice 4.R` - R script for correlation, regression and logistic regression analysis
 - `ROC_curve.png` - ROC curve plot (AUC = 0.6515)
 
 ## Conclusion
