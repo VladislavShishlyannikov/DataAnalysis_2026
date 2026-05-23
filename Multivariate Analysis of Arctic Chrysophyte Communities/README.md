@@ -26,7 +26,7 @@ This assignment focuses on multivariate analysis of Arctic chrysophyte abundance
 - Karaul village
 - Ladyginskie Yary
 - Sopochnaya Karga
-- Sibiryakov Island, Srednee Lake
+- Sibiryakov Island
 - Chernyi Bay
 
 ## R Environment
