@@ -13,7 +13,6 @@ This assignment focuses on the analysis of morphometric traits using correlation
    * PCA biplot with 95% confidence ellipses
    * Interactive 3D PCA biplot (PC1, PC2, PC3) with loading vectors
 
----
 
 ## Student Information
 
@@ -21,7 +20,6 @@ This assignment focuses on the analysis of morphometric traits using correlation
 * **Date:** 11.06.26
 * **Course:** Data Analysis 2026
 
----
 
 ## Data Description
 
@@ -32,26 +30,18 @@ This assignment focuses on the analysis of morphometric traits using correlation
 
 The dataset contains quantitative measurements of vegetative and reproductive plant structures, including shoot height, leaf dimensions, perianth dimensions, stamen height and pistil height.
 
----
 
 ## R Environment
 
 * **R Version:** 4.5.3
 * **Platform:** Windows 10
 
----
 
 ## Procedures Used
 
 ### 1. Data Standardization
 
-All morphometric variables were standardized using range normalization:
-
-[
-x' = \frac{x - \min(x)}{\max(x)-\min(x)}
-]
-
-This transformation scales all variables to the interval [0,1], ensuring that variables measured in different units contribute equally to the analysis.
+All morphometric variables were standardized. The transformation scales all variables to the [0,1] interval, ensuring equal contribution of variables measured in different units to the analysis.
 
 ### 2. Correlation Analysis
 
