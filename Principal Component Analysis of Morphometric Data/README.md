@@ -64,7 +64,6 @@ Three PCA visualizations were produced:
 2. PCA biplot with observations coloured by group and 95% confidence ellipses
 3. Interactive 3D PCA biplot using the first three principal components
 
----
 
 ## Results
 
@@ -87,8 +86,6 @@ All significant correlations were positive, indicating coordinated variation amo
 
 The strongest relationships were observed between measurements describing similar organs. Leaf dimensions and perianth dimensions exhibited particularly high correlations, suggesting strong morphological integration and coordinated growth patterns.
 
----
-
 ### Principal Component Analysis
 
 #### Variance Explained
@@ -104,7 +101,6 @@ The first principal component explained more than half of the total variation in
 
 The first two principal components accounted for 68.22% of the total variance, while the first three components explained 78.54%, providing a reliable low-dimensional representation of the data.
 
----
 
 ### Interpretation of Principal Components
 
@@ -164,8 +160,6 @@ The strongest negative loadings were:
 
 This component appears to separate individuals with taller generative shoots from those with relatively broader leaves and perianth structures.
 
----
-
 ### PCA Visualization
 
 #### PCA Biplot (Groups)
@@ -183,8 +177,6 @@ The interactive 3D PCA visualization incorporated PC1, PC2 and PC3, together exp
 Loading vectors showed how individual traits contributed to the principal components. Variables associated with leaf dimensions and perianth dimensions had the strongest influence on the overall PCA structure, whereas floral height measurements contributed more strongly to PC3.
 
 
----
-
 ## Files in this Folder
 
 * `data_morphometry.txt` – original morphometric dataset
@@ -194,7 +186,6 @@ Loading vectors showed how individual traits contributed to the principal compon
 * `PCA_biplot2.png` – PCA biplot with 95% confidence ellipses
 * `PCA_3D_biplot.html` – interactive 3D PCA visualization
 
----
 
 ## Conclusion
 
